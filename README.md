@@ -278,13 +278,14 @@ durumlar bu aşamada değerlendirilir.
 Yazılımcı ise bu aşamada doğrudan kod yazmak yerine teknik açıdan projeye
 katkıda bulunabilir. Örneğin kullanılabilecek teknolojileri değerlendirebilir, teknik
 gereksinim ve riskleri belirlemeye yardımcı olabilir.
-2- Analiz (Analysis)
 
+2- Analiz (Analysis)
 Bu aşamada kullanıcının ve sistemin ihtiyaçları ayrıntılı olarak incelenir. “Ne
 yapılmalı?” sorusuna cevap aranır. Örneğin sistemi kimler kullanacak, hangi
 veriler tutulacak, güvenlik gereksinimleri neler gibi ihtiyaçlar belirlenir.
 Yazılımcı ise bu aşamada gereksinimlerin teknik olarak uygulanabilirliğini
 değerlendirir.
+
 3- Tasarım ve Geliştirme (Design & Development)
 Bu aşamada analiz sonucunda belirlenen gereksinimler teknik tasarıma ve daha
 sonra koda dönüştürülür.
@@ -294,6 +295,7 @@ yapılabilir.
 Geliştirme aşamasında ise yazılımcılar belirlenen tasarıma göre kodu geliştirir.
 Bu aşama yazılımcının en aktif olduğu aşamadır. Kod yazar, veritabanı işlemlerini
 geliştirir API’leri oluşturur, kullanıcı arayüzünü geliştirir vb.
+
 4- Test (Testing)
 Geliştirilen yazılımın gereksinimleri karşılayıp karşılamadığı ve hatalarının olup
 olmadığı kontrol edilir.
@@ -313,6 +315,7 @@ kullanıcılar tarafından kullanılabilir. Deployment işlemleri manuel yapıla
 gibi CI/CD pipeline'ları ile otomatikleştirilebilir.
 Yazılımcı bu aşamada deployment sürecine destek olur, ortam değişkenlerini ve
 yapılandırmaları yönetir, deployment sonrası oluşabilecek hataları takip eder.
+
 6- Bakım (Maintenance)
 Yazılım kullanıma sunulduktan sonra süreç bitmez. Kullanıcıların karşılaştığı
 hatalar giderilir ve yeni ihtiyaçlara göre yazılım geliştirilir. Bakım kapsamında
