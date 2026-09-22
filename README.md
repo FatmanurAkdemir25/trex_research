@@ -73,6 +73,7 @@ Build
 Test
 ↓
 Başarılı / Başarısız
+
 2- Continuous Delivery (CD)
 Continuous Delivery (Sürekli Teslimat), CI aşamasından başarıyla geçen
 uygulamanın deployment için hazır hâle getirilmesidir. Örneğin:
@@ -88,6 +89,7 @@ Deployment için hazır
 
 Burada uygulama otomatik olarak production ortamına gönderilmek zorunda
 değildir. Son deployment işlemi manuel bir onaydan sonra gerçekleştirilebilir.
+
 3- Continuous Deployment (CD)
 Continuous Deployment (Sürekli Dağıtım), testlerden ve gerekli kontrollerden
 başarıyla geçen kodun otomatik olarak production ortamına dağıtılmasıdır.
